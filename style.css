@@ -1,0 +1,18 @@
+.grid-container {
+  height: 20vh;
+  width: 30vh;
+ background-image: linear-gradient(red,white, blue, rgb(0, 255, 55));
+}
+
+.grid-container1 {
+ height: 30vh;
+  width: 30vh;
+margin-left: 50px;
+  background-image:radial-gradient(rgb(255, 251, 0),green 50%, red 60%, rgb(0, 247, 255));
+}
+.grid-container2 {
+ height: 30vh;
+  width: 30vh;
+margin-left: 50px;
+  background-image: repeating-linear-gradient( yellow,yellow 10px, rgb(194, 66, 15) 5px, green 20px);
+}
